@@ -10,8 +10,10 @@ docker run -it --name ifx --privileged -p 127.0.0.1:9088:9088 -p 127.0.0.1:9089:
 
 4. run `dbaccess` to create your databases
 
-here are the password details : https://github.com/informix/informix-dockerhub-readme/blob/master/12.10.FC12/informix-developer-database.md 
 
 5. Connect from DBvisualizer 
 
 ![alt text](https://raw.githubusercontent.com/sushilshinde/how-to-docs/main/assets/db-viz-docker-ifx.png)
+
+6. Here are the password details : https://github.com/informix/informix-dockerhub-readme/blob/master/12.10.FC12/informix-developer-database.md 
+
