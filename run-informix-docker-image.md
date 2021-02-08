@@ -10,7 +10,6 @@ docker run -it --name ifx --privileged -p 127.0.0.1:9088:9088 -p 127.0.0.1:9089:
 
 4. run `dbaccess` to create your databases
 
-
 5. Connect from DBvisualizer 
 
 ![alt text](https://raw.githubusercontent.com/sushilshinde/how-to-docs/main/assets/db-viz-docker-ifx.png)
