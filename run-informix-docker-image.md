@@ -12,6 +12,6 @@ docker run -it --name ifx --privileged -p 127.0.0.1:9088:9088 -p 127.0.0.1:9089:
 
 here are the details : https://github.com/informix/informix-dockerhub-readme/blob/master/12.10.FC12/informix-developer-database.md 
 
-5. Connection 
+5. Connect from DBvisualizer 
 
 ![alt text](https://raw.githubusercontent.com/sushilshinde/how-to-docs/main/assets/db-viz-docker-ifx.png)
